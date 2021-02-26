@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "express": "^4.16.1"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5"
   }
-  
 }
