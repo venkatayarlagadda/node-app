@@ -14,7 +14,7 @@ app.use(cors());
 
 app.get("/", (req, res) => {
   res.send(
-    '<h1 style="color:red;">Testing Jode JS with AWS CI/CD Integration</h1> \n'
+    '<h1 style="color:red;">Testing Jode JS with AWS CI/CD Integration Testing</h1> \n'
   );
 });
 
